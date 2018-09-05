@@ -1,3 +1,9 @@
+/ponzu-server
+/uploads
+/search
+/*.db
+
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
